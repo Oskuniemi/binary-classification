@@ -1,0 +1,3 @@
+SFOpportunity ID,IsWon,IsClosed,Activity,Timestamp,CloseDateNew,CreatedDate,Previous activity,Lead time from previous activity,Activity amount so far,Rework amount ,Lead time until the stage,Amount in stage,Customer,MarketSegmentc,BusinessType,Industryc,Subsegmentc,Ownerrolec,Paymentterm,QuoteOperatingUnitc,OfferingCategory,BigDealAlertSent,Tenderflag,CustomerPrevRevenue,Industry previous revenue
+12345,0,1,,12345,,,,,,,,,,,,,,,,,,,,,
+123456,1,0,,123456,,,,,,,,,,,,,,,,,,,,,
